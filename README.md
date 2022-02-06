@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Pyton, Java e JavaScript
 - 📫 Contate-me no email: saulo.melo@edu.unifor.br
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/saulomelo">
