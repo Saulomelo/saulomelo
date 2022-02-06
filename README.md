@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Saulo Mélo
 
 - 🌱 Estudando Pyton, Java e JavaScript
-- 🎓 Cursando o 2° semestre de Ciência da Computação
+- 🎓 Cursando o 2° semestre de Ciência da Computação na Universidade de Fortaleza
 - 📫 Contate-me no email: saulo.melo@edu.unifor.br
 
 <div align="center">
