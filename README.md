@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Saulo Mélo
 
-- 🌱 Estudando Java, JavaScript e Kotlin.
+- 🌱 Estudando Java, JavaScript.
 - 🎓 Cursando o 4° semestre de Ciência da Computação na Universidade de Fortaleza
 - 📫 Contate-me no email: saulo.melo@edu.unifor.br
 
