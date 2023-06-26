@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Saulo Mélo
 
 - 💻 Desenvolvedor Java e JavaScript.
-- 🎓 Cursando o 4° semestre de Ciência da Computação na Universidade de Fortaleza
+- 🎓 Cursando o 5° semestre de Ciência da Computação na Universidade de Fortaleza
 - 📫 Contate-me no email: saulo.melo@edu.unifor.br
 <br>
 <div align="Left">
