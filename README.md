@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Web
 - 🎓 Cursando o 6° semestre de Ciência da Computação na Universidade de Fortaleza
-- 📫 Contate-me no email: saulo.melo@edu.unifor.br
+- 📫 Contate-me no email: saulo.bfmelo@gmail.com
 <br>
 <div align="Left">
   <a href="https://github.com/saulomelo">
