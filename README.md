@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Saulo Mélo
 
 - 💻 Desenvolvedor Web
-- 🎓 Cursando o 6° semestre de Ciência da Computação na Universidade de Fortaleza
+- 🎓 Cursando o 7° semestre de Ciência da Computação na Universidade de Fortaleza
 - 📫 Contate-me no email: saulo.bfmelo@gmail.com
 <br>
 <div align="Left">
