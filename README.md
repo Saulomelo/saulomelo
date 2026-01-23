@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Saulo Mélo
 
 - 💻 Desenvolvedor Full-Stack
-- 🎓 Cursando Ciência da Computação na Universidade de Fortaleza
+- 🎓 Formado em Ciência da Computação na Universidade de Fortaleza
 - 📫 Contate-me no email: saulo.bfmelo@gmail.com
 <br>
 <div align="Left">
